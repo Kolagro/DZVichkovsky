@@ -1,0 +1,9 @@
+C:\Users\Cемен Романович\source\repos\MyProject2\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\Cемен Романович\source\repos\MyProject2\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\Cемен Романович\source\repos\MyProject2\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\Cемен Романович\source\repos\MyProject2\MyProject\MyProject\obj\Debug\MyProject.FormData.resources
+C:\Users\Cемен Романович\source\repos\MyProject2\MyProject\MyProject\obj\Debug\MyProject.FormRegistration.resources
+C:\Users\Cемен Романович\source\repos\MyProject2\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\Cемен Романович\source\repos\MyProject2\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.cache
+C:\Users\Cемен Романович\source\repos\MyProject2\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\Cемен Романович\source\repos\MyProject2\MyProject\MyProject\obj\Debug\MyProject.pdb
